@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.fm{
+  padding: 20px;
+  display:inline-block;
+  }
+  .frm{
+    border:5px solid black;
+    width:600px;
+    height: 800px;
+    display:inline-block;
+    background-color:paleturquoise;  
+  }
+  .abc{
+    display:inline-block;
+    width: 200px;
+    padding: 9px;
+    
+    
+  }
+  .para{
+    text-align: center;
+    
+  }
+
+
